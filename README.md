@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**Kalpani2004/Kalpani2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kalpani Chamodya** 🎓 **BSc (Hons) in IT Student @ OUSL** 💻 Passionate about Software Engineering & Java Development  
+🚀 Always learning and building.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, SQL
+- **Tools:** Git, GitHub, Draw.io
+
+---
+
+### 📬 Connect with me
+- **LinkedIn:** [linkedin.com/in/kalpani-c-weerasinghe](https://www.linkedin.com/in/kalpani-c-weerasinghe)
+
+---
+*Thanks for visiting my profile!*
