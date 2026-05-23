@@ -12,7 +12,7 @@ I'm **Kalpani Chamodya** 🎓 **BSc (Hons) in IT Student @ OUSL** 💻 Passionat
 ---
 
 ### 📬 Connect with me
-- **LinkedIn:** [linkedin.com/in/kalpani-c-weerasinghe](https://www.linkedin.com/in/kalpani-c-weerasinghe)
+- **LinkedIn:** [https://www.linkedin.com/in/kalpani-chamodya-](https://www.linkedin.com/in/kalpani-chamodya-)
 
 ---
 *Thanks for visiting my profile!*
